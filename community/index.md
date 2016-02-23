@@ -18,7 +18,7 @@ this page, following the style shown in the example below.  We welcome all
 entries, but we also reserve the right to remove entries for any reason (for
 example due to the project being dead or in violation of applicable law, but
 we also do not tolerate any kind of abusive behavior).  Being listed here does
-not represent an endorsement by or affiliation with Typesafe, Inc. or the Akka
+not represent an endorsement by or affiliation with Lightbend, Inc. or the Akka
 open-source project.
 
 ### Example Section
@@ -310,7 +310,7 @@ Before adding a plugin to this list, it must be tested for compatibility using t
 
   Published to bintray at the URL `http://dl.bintray.com/bseibel/release`.
 
-* **[Cassandra plugin](https://github.com/akka/akka-persistence-cassandra)** (by [Martin Krasser](https://github.com/krasserm), Typesafe and contributors)
+* **[Cassandra plugin](https://github.com/akka/akka-persistence-cassandra)** (by [Martin Krasser](https://github.com/krasserm), Lightbend and contributors)
 
   <table class="stats">
   <tr><td>Since Akka version:</td><td>2.3.0</td></tr>
@@ -556,7 +556,7 @@ Before adding a plugin to this list, it must be tested for compatibility using t
 
   Compliant with [Plugin TCK](http://doc.akka.io/docs/akka/current/scala/persistence.html#Plugin_TCK).
 
-* **[Cassandra plugin](https://github.com/akka/akka-persistence-cassandra)** (by [Martin Krasser](https://github.com/krasserm), Typesafe and contributors)
+* **[Cassandra plugin](https://github.com/akka/akka-persistence-cassandra)** (by [Martin Krasser](https://github.com/krasserm), Lightbend and contributors)
 
   <table class="stats">
   <tr><td>Since Akka version:</td><td>2.3.2</td></tr>

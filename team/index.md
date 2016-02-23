@@ -10,7 +10,7 @@ title: Team
 		<span class="profile-name">Roland Kuhn</span>
     <span class="profile-title">Akka Tech Lead</span>
 		<span class="profile-twitter-link"><a href="https://twitter.com/rolandkuhn">@rolandkuhn</a></span>			
-		<p class="profile-text">After earning a PhD in high-energy particle physics and while working as a systems engineer in the space business, Roland came in contact with the Akka project. He started contributing in 2010 and has been employed by Typesafe since 2011 where he has been leading the Akka project since November 2012.</p>
+		<p class="profile-text">After earning a PhD in high-energy particle physics and while working as a systems engineer in the space business, Roland came in contact with the Akka project. He started contributing in 2010 and has been employed by Lightbend since 2011 where he has been leading the Akka project since November 2012.</p>
     <p><a href="http://rolandkuhn.com/">rolandkuhn.com</a></p>
 	</div>
 	<div class="span6">
@@ -47,15 +47,15 @@ title: Team
 	<div class="span6">
 		<div class="profile-pic-wrap"><img class="profile-pic" src="http://www.gravatar.com/avatar/e0b5787d1a1935a2800e0bbffc81c196?s=80" /></div>
 		<span class="profile-name">Jonas Bonér</span>
-		<span class="profile-title">Typesafe CTO</span>
+		<span class="profile-title">Lightbend CTO</span>
 		<span class="profile-twitter-link"><a href="https://twitter.com/jboner">@jboner</a></span>
-		<p class="profile-text">Jonas Bonér invented Akka back in 2008 and is the CTO and co-founder of Typesafe.</p>
+		<p class="profile-text">Jonas Bonér invented Akka back in 2008 and is the CTO and co-founder of Lightbend.</p>
     <p><a href="http://jonasboner.com">jonasboner.com</a></p>
 	</div>
 	<div class="span6">
 		<div class="profile-pic-wrap"><img class="profile-pic" src="http://viktorklang.github.io/assets/images/IAMKLANG.png" /></div>
 		<span class="profile-name">Viktor Klang</span>
-		<span class="profile-title">Typesafe Deputy CTO</span>
+		<span class="profile-title">Lightbend Deputy CTO</span>
 		<span class="profile-twitter-link"><a href="https://twitter.com/viktorklang">@viktorklang</a></span>
 		<p class="profile-text"><a href="http://www.linkedin.com/in/viktorklang">Viktor Klang (√)</a> was one of the first contributors to Akka, starting on the first day of public availability, and served as Project Lead from July of 2010 to November of 2012.</p>
 	</div>
@@ -70,7 +70,7 @@ title: Team
 		<div class="profile-pic-wrap"><img class="profile-pic" src="http://www.gravatar.com/avatar/f37dcc04641b226a984e06482a19cb25?s=80" /></div>
 		<span class="profile-name">Henrik Engström</span>
 		<span class="profile-twitter-link"><a href="https://twitter.com/h3nk3">@h3nk3</a></span>		
-		<p class="profile-text">After graduating with a M.Sc degree in Computer Science in 1998 at the Royal Institute of Technology Henrik Engström has been working as a consultant up until his Typesafe employment in 2011. Henrik has not only vast experience from various types of programming but also great domain knowledge within the finance, retail and e-gaming industries. Apart from his major interest, programming languages, he is also an avid Arsenal supporter, black belt in Shotokan Karate and a hobby wine connoisseur.</p>
+		<p class="profile-text">After graduating with a M.Sc degree in Computer Science in 1998 at the Royal Institute of Technology Henrik Engström has been working as a consultant up until his Lightbend (then Typesafe) employment in 2011. Henrik has not only vast experience from various types of programming but also great domain knowledge within the finance, retail and e-gaming industries. Apart from his major interest, programming languages, he is also an avid Arsenal supporter, black belt in Shotokan Karate and a hobby wine connoisseur.</p>
 	</div>
 </div>
 <div class="row">
